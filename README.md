@@ -60,7 +60,7 @@ The first version had a title whitelist built from my own prior job titles. It w
 
 **Limitations stated in the repo, not discovered by the reader:** no labelled ground truth, so this measures reproducibility rather than accuracy. The promotion threshold is a judgment call, not an optimised parameter. The shuffled-order spread got *worse* between measurements and the recorded explanation is plausible but unproven. It's a single-user personal tool with no auth and no tests, and the architecture says so.
 
-🔗 [Source and full write-up](https://github.com/a-garvit/job-signal-board-public)
+🔗 [Source and full write-up](https://github.com/a-garvit/job-signal-board-public) · [Demo - Synthetic Data](https://claude.ai/code/artifact/b4ddc503-9946-472f-aa35-043255094811) 
 
 ---
 
