@@ -162,36 +162,41 @@ API and ATS integrations · Google Apps Script · Workflow automation (n8n, Zapi
 
 ## 🌍 Beyond Product
 
-I'm happiest building something with my hands or moving fast enough that
-thinking gets out of the way.
+I'm happiest with my hands in something, or moving fast enough that thinking
+gets out of the way.
 
-**Things I build.** LEGO, mostly — I like anything where a thousand small
-parts have to be right for the whole to work. Same reason I cook: a recipe
-is a spec, and improvising against it is more fun once you know why each
-step is there.
+🍳 **I love to cook.** A recipe is a spec, and improvising against it only
+gets fun once you know why each step is there. Feeding people is the
+closest thing I have to a reset button.
 
-**Things that move.** Go-karting for the split-second decisions, sailing
-for the opposite — reading wind and current and committing to a line
-before you can see whether it was right. I follow Formula 1 obsessively
-and made it to Silverstone for an experience day.
+🧱 **LEGO**, and anything else where a thousand small parts all have to be
+right for the whole thing to hold together. I suspect this explains most of
+my career.
 
-**Badminton**, seriously enough to play at state level in Maharashtra
-(under-16, District Thane). Still swim. Still lose to people half my age
-at both.
+🏎️ **Go-karting** for the split-second decisions, and **Formula 1**
+obsessively — race weekends are non-negotiable. Made it to Silverstone for
+an experience day.
 
-**Manchester United**, logo tattooed on my arm, which I did before knowing
-how the next decade would go. Old Trafford was the first stop on my first
-trip to the UK, and worth every minute of the pilgrimage.
+⛵ **Sailing**, for the opposite reason: reading wind and current and
+committing to a line long before you can tell whether it was right.
 
-**Animals.** I moderate a Bangalore canine-feline group that keeps an
+🏸 **Badminton**, seriously enough to play at state level in Maharashtra
+(under-16, District Thane). Still swim. Still lose to people half my age at
+both.
+
+⚽ **Manchester United**, logo tattooed on my arm, done before I knew how
+the next decade would go. Old Trafford was the first stop on my first trip
+to the UK, and worth every minute of the pilgrimage.
+
+🐾 **Animals.** I moderate a Bangalore canine-feline group that keeps an
 emergency blood-transfusion database for pets and interviews prospective
-adopters. It's the least glamorous volunteering I've done and the one I'd
-give up last.
+adopters. The least glamorous volunteering I've done and the last I'd give
+up.
 
-**Also:** mentoring GMAT aspirants, collecting stamps in the passport, and
-a mental well-being club I started at BYJU'S during COVID that grew to
-800 members — which taught me more about product-market fit than any
-course did.
+✈️ **Also:** mentoring GMAT aspirants, collecting stamps in the passport,
+and a mental well-being club I started at BYJU'S during COVID that grew to
+800 members — which taught me more about product-market fit than any course
+did.
 
 ---
 
