@@ -80,7 +80,9 @@ MindMate is positioned as a daily emotional companion for high-stress micro-mome
 - Unit economics: $12/mo subscription, $1.50–$4.50 variable cost, contribution margin $7.50–$10.50, sub-3-month target payback
 - Directional TAM/SAM/SOM with transparent assumptions and a written section on why growth will be slow, cohort-driven, and retention-led rather than explosive
 
-🔗 [Live prototype](https://melodic-bubblegum-224343.netlify.app) · [12-week scrum board](https://a-garvit.github.io/Mindmate-Scrum-Board/)
+Built as a single self-contained page with a **local-first, bring-your-own-key architecture** — the user supplies their own OpenAI key, it stays in browser storage, and check-ins and journal entries never leave the device. That diverges from the PRD, which specified a native app with a HIPAA-aligned cloud backend. For a prototype whose premise is that someone will trust it with what they wouldn't tell a friend, holding nothing is the faster way to earn that trust.
+
+🔗 [Source and write-up](https://github.com/a-garvit/mindmate-ai) · [Live prototype](https://melodic-bubblegum-224343.netlify.app) · [12-week scrum board](https://a-garvit.github.io/Mindmate-Scrum-Board/)
 
 ---
 
