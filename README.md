@@ -160,12 +160,36 @@ API and ATS integrations · Google Apps Script · Workflow automation (n8n, Zapi
 
 ## 🌍 Beyond Product
 
-- State-level badminton player (Maharashtra, under-16), and still a serious swimmer
-- Go-karting and Formula 1 — the split-second decision-making is the appeal; visited Silverstone for an experience day
-- Manchester United supporter, logo tattooed on my arm, and Old Trafford was the first stop on my first UK trip
-- Animal welfare — moderator of a Bangalore canine-feline group maintaining an emergency blood-transfusion database and interviewing prospective adopters
-- Founded a mental well-being club at BYJU'S during COVID that grew to 800 members, and pushed leadership to fund professional counselling access for employees
-- Cooking, mentoring GMAT aspirants, and travel
+I'm happiest building something with my hands or moving fast enough that
+thinking gets out of the way.
+
+**Things I build.** LEGO, mostly — I like anything where a thousand small
+parts have to be right for the whole to work. Same reason I cook: a recipe
+is a spec, and improvising against it is more fun once you know why each
+step is there.
+
+**Things that move.** Go-karting for the split-second decisions, sailing
+for the opposite — reading wind and current and committing to a line
+before you can see whether it was right. I follow Formula 1 obsessively
+and made it to Silverstone for an experience day.
+
+**Badminton**, seriously enough to play at state level in Maharashtra
+(under-16, District Thane). Still swim. Still lose to people half my age
+at both.
+
+**Manchester United**, logo tattooed on my arm, which I did before knowing
+how the next decade would go. Old Trafford was the first stop on my first
+trip to the UK, and worth every minute of the pilgrimage.
+
+**Animals.** I moderate a Bangalore canine-feline group that keeps an
+emergency blood-transfusion database for pets and interviews prospective
+adopters. It's the least glamorous volunteering I've done and the one I'd
+give up last.
+
+**Also:** mentoring GMAT aspirants, collecting stamps in the passport, and
+a mental well-being club I started at BYJU'S during COVID that grew to
+800 members — which taught me more about product-market fit than any
+course did.
 
 ---
 
