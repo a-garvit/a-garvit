@@ -6,7 +6,7 @@ Most AI products don't fail because the model is bad. They fail because nobody b
 
 That layer is what I've spent the last three years building. Before that, nearly nine years shipping education and AI products across content, operations, and platform teams at scale.
 
-📍 Evanston, IL → open to US-based Technical Program Manager, Technical Product Manager, Product Operations, and Strategy & Operations roles.
+📍 Chicago, IL → open to US-based AI Strategist, AI Product Manager, Technical Program Manager, and Strategy & Operations roles.
 
 ---
 
