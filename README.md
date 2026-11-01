@@ -1,6 +1,6 @@
 # Hi, I'm Garvit 👋
 
-**AI Product & Program Manager | Kellogg MBA | I build the quality and evaluation layer that makes AI products work in production**
+**AI Strategy & Product Strategy | Kellogg MBA | I build the quality and evaluation layer that makes AI products work in production**
 
 Most AI products don't fail because the model is bad. They fail because nobody built the layer underneath — the error taxonomy, the human feedback loop, the audit trail, the operating discipline that catches a confident wrong answer before a customer sees it.
 
